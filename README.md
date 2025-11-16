@@ -1,4 +1,4 @@
-# INTEGRATOR-USING-OP-AMP
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/8425d400-1519-48dd-8f53-28b47f4d2f69" /># INTEGRATOR-USING-OP-AMP
 
 ## AIM:
 To design and test the performance of integrator and differentiator circuits using Op-amp.
@@ -41,10 +41,13 @@ ii)  SQUARE WAVE INPUT
 
 
 ## TABULATION:
+<img width="1276" height="900" alt="image" src="https://github.com/user-attachments/assets/c48a3a06-35b8-4146-8e8f-2aad97be8ee4" />
 
 
 ## GRAPH:
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/35a67782-c4b9-4ab4-896f-bdc8d867bb51" />
 
 
 ## RESULT:
-
+Thus an Integrator using op-amp are designed and their
+performance was successfully tested using op-amp IC 741.
